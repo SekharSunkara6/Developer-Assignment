@@ -1,3 +1,9 @@
+# Goals
+- Choose a blockchain: Ethereum, Polygon, Solana, or Bitcoin. Utilize their 'devnet/testnet' environment.
+- Develop a coinflip game where users can link their wallet and flip a coin on the interface.
+- Allow users to specify the amount of tokens (SOL, ETH, or BTC) they wish to gamble from their wallet and select a side.
+- If the coin lands on the chosen side, users receive double the tokens they risked; if it lands on the opposite side, they receive nothing.
+  
 ## Installation
 1. Clone the repository:
     ```bash
