@@ -1,11 +1,11 @@
 ## Installation
 1. Clone the repository:
     ```bash
-        https://github.com/SekharSunkara6/Nexcent-Ui.git
+        git clone https://github.com/SekharSunkara6/Developer-Assignment.git
      ```
 2. Navigate to the project directory:
       ```
-       cd Nexcent-Ui
+       cd Developer-Assignment 
       ```
 3. Make the necessary changes to the code (frontend only).
    
